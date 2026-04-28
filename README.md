@@ -1,5 +1,7 @@
 <div align="center">
   
+![Banner](https://raw.githubusercontent.com/Saif3985/Saif3985/main/saif_banner_with_github.png)
+
 # 👋 Hi, I'm Saif Ullah
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=ML+%26+AI+Engineer;MS+Data+Science+%40+ITU;PyTorch+%7C+LLMs+%7C+Computer+Vision;Geospatial+AI+Specialist" alt="Typing SVG" />
