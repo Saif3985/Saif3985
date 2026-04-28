@@ -14,7 +14,7 @@
 
 ### 🎓 About Me
 
-**ML Engineer @ Tech Supa | MS Data Science Student @ ITU**
+**ML Engineer | MS Data Science Student @ ITU**
 
 🌍 Specializing in **LLMs** • **Computer Vision** • **Geospatial AI** • **Remote Sensing**  
 🏆 **100% IEEE-GRSS & ICIMOD Scholarship** recipient  
