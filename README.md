@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi there, I'm Saif Ullah
+# 👋 Hi, I'm Saif Ullah
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=ML+%26+AI+Engineer;Geospatial+AI+Researcher;MS+Data+Science+%40+ITU;PyTorch+%7C+LLMs+%7C+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=ML+%26+AI+Engineer;MS+Data+Science+%40+ITU;PyTorch+%7C+LLMs+%7C+Computer+Vision;Geospatial+AI+Specialist" alt="Typing SVG" />
 
 </div>
 
@@ -12,12 +12,11 @@
 
 ### 🎓 About Me
 
-**ML Engineer | MS Data Science Student**  
-*Building intelligent systems at the intersection of AI, Remote Sensing, and Real-world Impact*
+**ML Engineer @ Tech Supa | MS Data Science Student @ ITU**
 
-🌍 Specializing in **Geospatial AI** • **LLMs** • **Computer Vision** • **Remote Sensing**  
+🌍 Specializing in **LLMs** • **Computer Vision** • **Geospatial AI** • **Remote Sensing**  
 🏆 **100% IEEE-GRSS & ICIMOD Scholarship** recipient  
-🚀 Currently @ **Tech Supa** | Previously researching glacier dynamics using SAR imagery
+🚀 Building production ML systems with **PyTorch**, **FastAPI** & **Docker**
 
 [![Email](https://img.shields.io/badge/Email-saifullahct5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saifullahct5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saifullah--ds-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifullah-ds)
@@ -27,20 +26,20 @@
 
 ---
 
-## 🔬 What I'm Working On
+## 🔬 Current Focus
 
 ```yaml
-current_focus:
-  - Building production ML pipelines with PyTorch & FastAPI
-  - Glacier velocity estimation using SAR & optical imagery
+building:
+  - Production ML pipelines with PyTorch & FastAPI
   - RAG systems with LangChain & vector databases
-  - Geospatial deep learning for climate monitoring
+  - Real-time computer vision applications
+  - Geospatial deep learning solutions
   
-research_interests:
+exploring:
   - Multimodal AI (Vision + Language)
-  - Transformers for Remote Sensing
   - LLM fine-tuning & domain adaptation
-  - Real-time inference optimization
+  - Transformers for satellite imagery
+  - Model optimization & deployment
 ```
 
 ---
@@ -49,7 +48,7 @@ research_interests:
 
 <div align="center">
 
-### Languages & Core
+### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,24 +64,22 @@ research_interests:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Data Science & Visualization
+### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white)
 
 ### Geospatial & Remote Sensing
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=osgeo&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Tools & DevOps
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -90,17 +87,44 @@ research_interests:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛰️ **Glacier Velocity Estimation** | SAR & optical satellite imagery analysis for climate research | PyTorch, ISCE2, AutoRIFT, GDAL |
-| 🤖 **RAG Help Assistant** | Intelligent Q&A system with retrieval-augmented generation | LangChain, Vector DBs, LLMs |
-| 🎤 **Voice Mental Health Screener** | Conversational AI for mental health screening | Speech-to-Text, NLP, RAG |
-| 🏧 **ATM Report Automation** | Handwritten text extraction using computer vision | YOLO, OCR, Docker |
-| 🌄 **Landslide Detection** | Deep learning for disaster monitoring from satellite imagery | CNNs, Remote Sensing |
+### 🤖 RAG Help Assistant
+Intelligent Q&A system using retrieval-augmented generation with LangChain and vector databases.
 
-</div>
+**Stack:** LangChain, Vector DBs, LLMs, Python
+
+</td>
+<td width="50%">
+
+### 🎤 Voice Mental Health Screener
+End-to-end conversational AI for mental health screening with NLP-based diagnosis.
+
+**Stack:** Speech-to-Text, LLMs, NLP, RAG
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏧 ATM Report Automation
+Automated handwritten text extraction using object detection and OCR.
+
+**Stack:** YOLO, OCR, Docker, Python
+
+</td>
+<td width="50%">
+
+### 🌄 Landslide Detection
+Deep learning model for disaster monitoring from satellite imagery.
+
+**Stack:** CNNs, Remote Sensing, GDAL
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -118,29 +142,32 @@ research_interests:
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education & Achievements
 
 <div align="center">
 
-🎓 **MS Data Science** @ Information Technology University, Lahore  
-🎖️ **100% Scholarship** - IEEE-GRSS & ICIMOD (Remote Sensing for Hazard Monitoring)  
-🎯 **BS Electrical Engineering** - FAST-NUCES (2019-2023)  
-📜 **Certifications**: Machine Learning (ITU), Google Data Analytics, Python (Cisco)
+**MS Data Science** @ Information Technology University, Lahore (2023 - Present)  
+*Specialization: Geospatial AI, Machine Learning, Deep Learning, Remote Sensing*
+
+**BS Electrical Engineering** @ FAST-NUCES (2019 - 2023)
+
+🏆 **100% Scholarship** - IEEE-GRSS & ICIMOD (Remote Sensing for Hazard Monitoring)  
+📜 **Certifications:** Machine Learning (ITU), Google Data Analytics, Python (Cisco)
 
 </div>
 
 ---
 
-## 💡 Core Interests
+## 💡 Research Interests
 
-```python
-interests = {
-    "AI/ML": ["Deep Learning", "Computer Vision", "NLP", "LLMs"],
-    "Geospatial": ["Remote Sensing", "SAR Imagery", "Climate Monitoring"],
-    "Production": ["MLOps", "Model Deployment", "API Development"],
-    "Research": ["Transformers", "Multimodal AI", "Geospatial AI"]
-}
-```
+<div align="center">
+
+**AI/ML:** Deep Learning • Computer Vision • NLP • LLMs  
+**Geospatial:** Remote Sensing • SAR Imagery • Climate Monitoring  
+**Production:** MLOps • Model Deployment • API Development  
+**Emerging:** Transformers • Multimodal AI • Real-time Inference
+
+</div>
 
 ---
 
@@ -148,13 +175,9 @@ interests = {
 
 <div align="center">
 
-I'm always interested in collaborating on **ML/AI projects**, especially in:
-- 🌍 Geospatial AI & Climate Tech
-- 🤖 LLMs & Generative AI
-- 📸 Computer Vision Applications
-- 🚀 Production ML Systems
-
-**Open to research collaborations and ML engineering opportunities!**
+**Open to collaborations in:**
+🌍 Geospatial AI & Climate Tech • 🤖 LLMs & Generative AI  
+📸 Computer Vision Applications • 🚀 Production ML Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifullah-ds)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifullahct5@gmail.com)
@@ -165,7 +188,7 @@ I'm always interested in collaborating on **ML/AI projects**, especially in:
 
 <div align="center">
   
-*"Building AI systems that matter"* 🚀
+*"Building intelligent systems that make an impact"* 🚀
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
