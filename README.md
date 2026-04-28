@@ -87,8 +87,8 @@ exploring:
 
 ---
 
+<!-- 
 ## 🚀 Featured Projects
-
 <table align="center">
 <tr>
 <td width="50%">
@@ -127,8 +127,7 @@ Deep learning model for disaster monitoring from satellite imagery.
 </td>
 </tr>
 </table>
-
----
+-->
 
 ## 📊 GitHub Stats
 
