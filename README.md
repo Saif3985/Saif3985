@@ -146,10 +146,10 @@ Deep learning model for disaster monitoring from satellite imagery.
 
 <div align="center">
 
-**MS Data Science** @ Information Technology University, Lahore (2023 - Present)  
+**MS Data Science** @ Information Technology University, Lahore  
 *Specialization: Geospatial AI, Machine Learning, Deep Learning, Remote Sensing*
 
-**BS Electrical Engineering** @ FAST-NUCES (2019 - 2023)
+**BS Electrical Engineering** @ FAST-NUCES 
 
 🏆 **100% Scholarship** - IEEE-GRSS & ICIMOD (Remote Sensing for Hazard Monitoring)  
 📜 **Certifications:** Machine Learning (ITU), Google Data Analytics, Python (Cisco)
