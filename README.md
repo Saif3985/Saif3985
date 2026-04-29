@@ -118,9 +118,30 @@ FAST-NUCES
 </tr>
 </table>
 
-🏆 **100% Scholarship** - IEEE-GRSS & ICIMOD (Remote Sensing for Hazard Monitoring)  
+<div align="center">
 
-📜 **Certifications:** Machine Learning (ITU), Google Data Analytics, Python (Cisco)
+<table>
+<tr>
+<td align="center" width="50%">
+
+🏆 **100% Scholarship**
+
+IEEE-GRSS & ICIMOD  
+Remote Sensing for Hazard Monitoring  
+High Mountain Asia
+
+</td>
+<td align="center" width="50%">
+
+📜 **Certifications**
+
+Machine Learning (ITU)  
+Google Data Analytics  
+Python Programming (Cisco)
+
+</td>
+</tr>
+</table>
 
 </div>
 
