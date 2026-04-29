@@ -180,8 +180,6 @@ Passionate about AI applications in real-world problems—from climate monitorin
   
 *"Building intelligent systems that make an impact"* 🚀
 
-**Let's build something amazing together!**
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 </div>
