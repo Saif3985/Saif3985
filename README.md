@@ -104,7 +104,6 @@ exploring:
 
 ## 🎓 Education & Achievements
 
-## 🎓 Education
 
 <div align="center">
 
