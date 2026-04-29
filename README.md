@@ -120,7 +120,7 @@ Information Technology University, Lahore
 
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/Saif3985/Saif3985/main/nuces_logo.png" width="80px"/>
+<img src="https://raw.githubusercontent.com/Saif3985/Saif3985/main/nuces_logo.jpeg" width="80px"/>
 
 **BS Electrical Engineering**  
 FAST-NUCES  
