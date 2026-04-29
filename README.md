@@ -104,12 +104,30 @@ exploring:
 
 ## 🎓 Education & Achievements
 
+## 🎓 Education
+
 <div align="center">
 
-**MS Data Science** @ Information Technology University, Lahore  
-*Specialization: Geospatial AI, Machine Learning, Deep Learning, Remote Sensing*
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/Saif3985/Saif3985/main/itu_logo.png" width="80px"/>
 
-**BS Electrical Engineering** @ FAST-NUCES 
+**MS Data Science**  
+Information Technology University, Lahore  
+
+*Specialization: Geospatial AI, ML, Deep Learning, Remote Sensing*
+
+</td>
+<td align="center" width="50%">
+<img src="https://raw.githubusercontent.com/Saif3985/Saif3985/main/nuces_logo.png" width="80px"/>
+
+**BS Electrical Engineering**  
+FAST-NUCES  
+
+</td>
+</tr>
+</table>
 
 🏆 **100% Scholarship** - IEEE-GRSS & ICIMOD (Remote Sensing for Hazard Monitoring)  
 📜 **Certifications:** Machine Learning (ITU), Google Data Analytics, Python (Cisco)
