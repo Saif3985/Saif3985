@@ -89,19 +89,6 @@ exploring:
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saif3985&theme=radical)](https://github.com/Saif3985)
-
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saif3985&theme=radical)](https://github.com/Saif3985)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saif3985&theme=radical)](https://github.com/Saif3985)
-
-</div>
-
----
-
 ## 🎓 Education & Achievements
 
 
@@ -131,6 +118,7 @@ FAST-NUCES
 </table>
 
 🏆 **100% Scholarship** - IEEE-GRSS & ICIMOD (Remote Sensing for Hazard Monitoring)  
+
 📜 **Certifications:** Machine Learning (ITU), Google Data Analytics, Python (Cisco)
 
 </div>
