@@ -48,7 +48,7 @@ exploring:
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div >
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -91,11 +91,9 @@ exploring:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saif3985&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif3985&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif3985&layout=compact&theme=radical&hide_border=true&hide=javascript,html,css)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saif3985&theme=radical&hide_border=true)
 
