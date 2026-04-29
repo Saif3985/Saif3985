@@ -125,6 +125,8 @@ Information Technology University, Lahore
 **BS Electrical Engineering**  
 FAST-NUCES  
 
+*Specialization: Signal Processing, Embedded Systems, Control Systems*
+
 </td>
 </tr>
 </table>
