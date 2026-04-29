@@ -178,8 +178,6 @@ Passionate about AI applications in real-world problems—from climate monitorin
 
 <div align="center">
   
-*"Building intelligent systems that make an impact"* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+the+future+together+%F0%9F%9A%80)
 
 </div>
