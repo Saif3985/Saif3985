@@ -140,7 +140,7 @@ FAST-NUCES
 
 ## 💡 Research Interests
 
-<div align="center">
+<div >
 
 **AI/ML:** Deep Learning • Computer Vision • NLP • LLMs  
 **Geospatial:** Remote Sensing • SAR Imagery • Climate Monitoring  
