@@ -91,11 +91,12 @@ exploring:
 
 ## 📊 GitHub Stats
 
-<div align="center">  
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif3985&layout=compact&theme=radical&hide_border=true&hide=javascript,html,css)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saif3985&theme=radical)](https://github.com/Saif3985)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saif3985&theme=radical&hide_border=true)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saif3985&theme=radical)](https://github.com/Saif3985)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saif3985&theme=radical)](https://github.com/Saif3985)
 
 </div>
 
