@@ -149,8 +149,6 @@ Started with electrical signals, now teaching machines to interpret satellite im
 **Perpetual Learner** 📚  
 Always exploring emerging tech currently diving into multimodal AI and transformer architectures. Research papers and technical blogs are my weekend reads.
 
-**Problem Solver at Heart** 🧩  
-Fascinated by how things work. Whether it's debugging complex models or understanding new algorithms, I enjoy the hunt for elegant solutions.
 
 **Open Source Enthusiast** 🌍  
 Believe in learning by building and sharing. Contributing to the ML community through code and knowledge.
