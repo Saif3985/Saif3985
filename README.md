@@ -141,7 +141,7 @@ FAST-NUCES
 ## 🌿 Beyond Code
 
 **Perpetual Learner** 📚  
-Always exploring emerging tech—currently diving into multimodal AI and transformer architectures. Research papers and technical blogs are my weekend reads.
+Always exploring emerging tech currently diving into multimodal AI and transformer architectures. Research papers and technical blogs are my weekend reads.
 
 **Problem Solver at Heart** 🧩  
 Fascinated by how things work. Whether it's debugging complex models or understanding new algorithms, I enjoy the hunt for elegant solutions.
@@ -149,8 +149,8 @@ Fascinated by how things work. Whether it's debugging complex models or understa
 **Open Source Enthusiast** 🌍  
 Believe in learning by building and sharing. Contributing to the ML community through code and knowledge.
 
-**Coffee-Fueled Researcher** ☕  
-Late-night coding sessions powered by curiosity and caffeine. My best breakthroughs happen at 2 AM.
+**Research-Driven** 🔬  
+Hungry for knowledge reading papers, experimenting with new architectures, and turning ideas into working prototypes.
 
 **Tech Meets Creativity** 🎨  
 Passionate about AI applications in real-world problems—from climate monitoring to accessible healthcare solutions.
