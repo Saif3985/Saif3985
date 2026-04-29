@@ -140,22 +140,23 @@ FAST-NUCES
 
 ## 🎯 Fun Fact
 
-**From hardware to ML:** Went from "Why won't this circuit work?" to "Why won't this model converge?" Both answers: Check your connections ⚡🧠
+**From hardware to ML:** Went from "Why won't this circuit work?" to "Why won't this model converge?" Both answers: Check your connections 
+
 ---
 
 ## 🌿 Beyond Code
 
-**Perpetual Learner** 📚  
+**Perpetual Learner**   
 Always exploring emerging tech currently diving into multimodal AI and transformer architectures. Research papers and technical blogs are my weekend reads.
 
 
-**Open Source Enthusiast** 🌍  
+**Open Source Enthusiast**  
 Believe in learning by building and sharing. Contributing to the ML community through code and knowledge.
 
-**Research-Driven** 🔬  
+**Research-Driven** 
 Hungry for knowledge reading papers, experimenting with new architectures, and turning ideas into working prototypes.
 
-**Tech Meets Creativity** 🎨  
+**Tech Meets Creativity** 
 Passionate about AI applications in real-world problems—from climate monitoring to accessible healthcare solutions.
 
 ---
