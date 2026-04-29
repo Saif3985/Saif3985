@@ -137,6 +137,11 @@ FAST-NUCES
 </div>
 
 ---
+## 🎯 Fun Fact
+
+**From circuits to neural networks** ⚡➡️🧠  
+Started with electrical signals, now teaching machines to interpret satellite imagery. The transition from hardware debugging to ML model optimization? Same problem-solving mindset, exponentially more coffee.
+---
 
 ## 🌿 Beyond Code
 
