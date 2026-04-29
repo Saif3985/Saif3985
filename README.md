@@ -178,6 +178,8 @@ Passionate about AI applications in real-world problems—from climate monitorin
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+the+future+together+%F0%9F%9A%80)
+*"Building intelligent systems that make an impact"* 🚀
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saif3985&repo=Saif3985&theme=radical)](https://github.com/Saif3985/Saif3985)
 
 </div>
