@@ -87,47 +87,7 @@ exploring:
 
 ---
 
-<!-- 
-## 🚀 Featured Projects
-<table align="center">
-<tr>
-<td width="50%">
 
-### 🤖 RAG Help Assistant
-Intelligent Q&A system using retrieval-augmented generation with LangChain and vector databases.
-
-**Stack:** LangChain, Vector DBs, LLMs, Python
-
-</td>
-<td width="50%">
-
-### 🎤 Voice Mental Health Screener
-End-to-end conversational AI for mental health screening with NLP-based diagnosis.
-
-**Stack:** Speech-to-Text, LLMs, NLP, RAG
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏧 ATM Report Automation
-Automated handwritten text extraction using object detection and OCR.
-
-**Stack:** YOLO, OCR, Docker, Python
-
-</td>
-<td width="50%">
-
-### 🌄 Landslide Detection
-Deep learning model for disaster monitoring from satellite imagery.
-
-**Stack:** CNNs, Remote Sensing, GDAL
-
-</td>
-</tr>
-</table>
--->
 
 ## 📊 GitHub Stats
 
