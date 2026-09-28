@@ -22,7 +22,6 @@
 
 [![Email](https://img.shields.io/badge/Email-saifullahct5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saifullahct5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saifullah--ds-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifullah-ds)
-![Profile Views](https://komarev.com/ghpvc/?username=Saif3985&color=blue&style=flat-square)
 
 </div>
 
